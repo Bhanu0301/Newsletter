@@ -13,7 +13,7 @@ npm install
   
   $ nodemon filename
   
-For more information about mailchimp API: Get Started with the Mailchimp API
+For more information about mailchimp API: Get Started with the Mailchimp API , https://mailchimp.com/developer
 
 # Browser
 Newsletter signup can be find now here localhost:3000/ in your browser.
