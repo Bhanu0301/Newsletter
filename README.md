@@ -6,10 +6,12 @@ $ cd newsletter
 # Install dependencies
 npm install
 
-# Serve on localhost:3000
-npm init
-npm run dev (Nodemon)
-$ nodemon filename
+
+  npm init
+  
+  npm run dev (Nodemon)
+  
+  $ nodemon filename
 
 # Browser
 Newsletter signup can be find now here localhost:3000/ in your browser.
